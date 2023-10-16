@@ -2,7 +2,7 @@
 ahsfs
 ### Task1 date: 2018-10-15
 
-- 打印“Hello World!”（day01/helloworld.py）
+- 打印“Hello World”（day01/helloworld.py）
 - 从0-499取四个不重复的随机数（day01/helloworld.py）
 
 ### Task2 date: 2018-10-16
