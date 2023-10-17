@@ -1,2 +1,2 @@
 # Python_learn
-NEW PYTHON LEAR
+NEW PYTHO LEAR
